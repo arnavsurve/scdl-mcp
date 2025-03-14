@@ -1,8 +1,9 @@
 # SoundCloud -> mp3 MCP Server
 
-Download songs, playlists, music from profiles, from SoundCloud to your local machine.
+Download songs and playlists from SoundCloud with Claude. After installing, ask Claude about available features
 
-To install:
+## Installation
+
 ```bash
 git clone https://github.com/arnavsurve/scdl-mcp
 cd scdl-mcp
@@ -13,5 +14,12 @@ You can use the Claude desktop client or any other LLM client that supports [MCP
 
 ## Dependencies
 
-`ffmpeg pipx`
-`pipx install scdl`
+```bash
+brew install ffmpeg pipx
+```
+
+```bash
+pipx install scdl
+```
+
+or whatever package manager your OS uses. idc
