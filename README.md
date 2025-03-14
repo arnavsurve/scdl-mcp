@@ -1,6 +1,6 @@
-# SoundCloud -> mp3 MCP Server
+# scdl-mcp
 
-Download songs and playlists from SoundCloud with Claude. After installing, ask Claude about available features
+Download songs and playlists from Soundcloud with Claude. After installing, ask Claude about available features.
 
 ## Installation
 
